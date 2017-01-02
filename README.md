@@ -1,5 +1,5 @@
 # On GitHub
-* create new repository ```test_rep0```
+* create new repository ```test_repo```
 
 # On local machine
 * configure ssh access for github
