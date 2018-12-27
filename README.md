@@ -1,4 +1,4 @@
-# Tweaked @SonicPi Tilborg 2 Example
+# Tweaked #SonicPi Tilborg 2 Example
 
 ```ruby
 live_loop :beat  do
